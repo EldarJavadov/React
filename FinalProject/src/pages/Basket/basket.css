@@ -1,0 +1,7 @@
+tbody tr img{
+    width: 70px;
+    height: 60px;
+}
+table > thead {
+    text-align: center;
+}
